@@ -10,7 +10,7 @@ Validator for the Zend Framework for [pwnedpasswords.com API](https://haveibeenp
 New to Composer? Read the [introduction](https://getcomposer.org/doc/00-intro.md#introduction). Run the following Composer command:
 
 ```console
-$ composer require fabiang/doctrine-dynamic
+$ composer require fabiang/zend-pwnedpasswords
 ```
 
 ## Use together with Zend-MVC
