@@ -2,6 +2,14 @@
     "name": "fabiang/zend-pwnedpasswords",
     "description": "Validator for the Zend Framework for pwnedpasswords.com API",
     "type": "library",
+    "keywords": [
+        "zf2",
+        "module",
+        "zf2-module",
+        "zf3-module",
+        "zend-framework",
+        "pwnedpasswords"
+    ],
     "license": "BSD-2-Clause",
     "authors": [
         {
